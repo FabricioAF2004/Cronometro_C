@@ -1,0 +1,16 @@
+C:\Users\Fabrício\source\repos\Cronometro\bin\Debug\net8.0-windows\Cronometro.exe
+C:\Users\Fabrício\source\repos\Cronometro\bin\Debug\net8.0-windows\Cronometro.deps.json
+C:\Users\Fabrício\source\repos\Cronometro\bin\Debug\net8.0-windows\Cronometro.runtimeconfig.json
+C:\Users\Fabrício\source\repos\Cronometro\bin\Debug\net8.0-windows\Cronometro.dll
+C:\Users\Fabrício\source\repos\Cronometro\bin\Debug\net8.0-windows\Cronometro.pdb
+C:\Users\Fabrício\source\repos\Cronometro\obj\Debug\net8.0-windows\Cronometro.Form1.resources
+C:\Users\Fabrício\source\repos\Cronometro\obj\Debug\net8.0-windows\Cronometro.csproj.GenerateResource.cache
+C:\Users\Fabrício\source\repos\Cronometro\obj\Debug\net8.0-windows\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabrício\source\repos\Cronometro\obj\Debug\net8.0-windows\Cronometro.AssemblyInfoInputs.cache
+C:\Users\Fabrício\source\repos\Cronometro\obj\Debug\net8.0-windows\Cronometro.AssemblyInfo.cs
+C:\Users\Fabrício\source\repos\Cronometro\obj\Debug\net8.0-windows\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Fabrício\source\repos\Cronometro\obj\Debug\net8.0-windows\Cronometro.dll
+C:\Users\Fabrício\source\repos\Cronometro\obj\Debug\net8.0-windows\refint\Cronometro.dll
+C:\Users\Fabrício\source\repos\Cronometro\obj\Debug\net8.0-windows\Cronometro.pdb
+C:\Users\Fabrício\source\repos\Cronometro\obj\Debug\net8.0-windows\Cronometro.genruntimeconfig.cache
+C:\Users\Fabrício\source\repos\Cronometro\obj\Debug\net8.0-windows\ref\Cronometro.dll
